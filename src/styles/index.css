@@ -9,3 +9,13 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body{
+    background-color: beige;
+}
+li:hover>*{
+    visibility: visible;
+}
+.icono{
+    visibility: hidden;
+    
+}
